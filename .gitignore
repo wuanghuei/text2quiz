@@ -1,0 +1,6 @@
+*.pt
+*.ckpt
+*.faiss
+__pycache__/
+outputs/
+models/
